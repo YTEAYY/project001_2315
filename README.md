@@ -16,7 +16,7 @@
 
 ## 📷 실행 화면
 <img width="978" height="650" alt="스크린샷 2025-12-08 172359" src="https://github.com/user-attachments/assets/4916b0f9-1a40-4c46-a8e1-bf523cce746d" />
-
+<img width="1024" height="1536" alt="다이어그램" src="https://github.com/user-attachments/assets/9042fadc-7865-46bc-91ca-7c9df585b3d5" />
 
 ## ✍ 느낀 점
 - 디자인을 처음 하면서 색을 조합이나 구조를 정하기에 어려움을 느겼지만 디자인을 하는 가족의 도움을 받아 해결하였다.
